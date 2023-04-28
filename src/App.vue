@@ -1,6 +1,6 @@
 <template>
   <div class="bg-white w-screen h-screen flex items-center justify-center">
-    <container/>
+    <container v-draggable/>
   </div>
 </template>
 

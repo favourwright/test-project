@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <span class="label">Container Box</span>
-        <content/>
+        <content v-draggable/>
     </div>
 </template>
 
